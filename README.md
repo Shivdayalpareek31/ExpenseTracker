@@ -62,7 +62,7 @@ This JavaScript file contains all the functionality of the app. It includes:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/mukeshkumarsoni4/ExpenseTracker.git
+   git clone https://github.com/Shivdayalpareek31/ExpenseTracker.git
 2. Navigate to the project folder:
 
     ```bash
